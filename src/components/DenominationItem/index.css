@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.btn {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  border: 1px solid #c4c4c4;
+  outline: none;
+  cursor: pointer;
+  height: 35px;
+  width: 150px;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.list-element {
+  list-style: none;
+}
